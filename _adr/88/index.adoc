@@ -1,11 +1,11 @@
 ---
-num: 84
-title: "foo"
-status: "Superseded"
+num: 88
+title: "Foo bar"
+status: "Draft"
 authors:
 - "tombentley"
 tags: []
-superseded_by: 88
+superseded_by: 84
 ---
 
 // Top style tips:
