@@ -23,6 +23,8 @@ tags: []
 ## Non-goals
 // Bulleted list of outcomes that this ADR is not trying to achieve.
 
+OMG
+
 ## Current situation
 // Where are we now?
 
