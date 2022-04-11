@@ -1,11 +1,10 @@
 ---
-num: 88
-title: "Foo bar"
-status: "Superseded"
+num: 89
+title: "dfdff"
+status: "Draft"
 authors:
 - "tombentley"
 tags: []
-superseded_by: 89
 ---
 
 // Top style tips:
