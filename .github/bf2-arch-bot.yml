@@ -5,3 +5,8 @@ botUserLogin: bf2-arch-test
 # 1440 minutes = 24 hours
 stalledDiscussionPollTimeMins: 1440
 
+# Github logins of people who can do "/create adr" etc on issues
+recordCreationApprovers:
+- tombentley
+
+publishedUrl: https://architecture.appservices.tech
